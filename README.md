@@ -145,23 +145,4 @@ If `ant` is not on PATH on Windows, download Ant and add it to PATH or use NetBe
 2. `src/BankClient.java` — client main class
 3. `src/loginPage.java` and `src/register.java` — UI classes
 
-## Contributing
 
-Small, well-scoped fixes and documentation updates are welcome. Suggested workflow:
-
-1. Fork the repository
-2. Create a branch `feat/my-change` or `fix/issue`
-3. Make changes, add tests if applicable
-4. Open a pull request describing the change
-
-## License
-
-This repository does not include an explicit license. If you wish to publish it on GitHub, consider adding a license file (for example, `MIT` or `Apache-2.0`) to clarify reuse terms.
-
-## Contact
-
-If you want help adapting this sample or adding features (persistence, authentication, TLS, tests), open an issue or contact the maintainer.
-
----
-
-*README created automatically by a helper script. Edit for personalization before uploading to GitHub.*
